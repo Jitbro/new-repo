@@ -1,3 +1,6 @@
-c {
-    color: brown;
+ /* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+ 
 }
